@@ -8,7 +8,6 @@
  */
 
 size_t print_listint(const listint_t *h)
-	int  = 0;
 {
 	size_t nmb = 0;
 
